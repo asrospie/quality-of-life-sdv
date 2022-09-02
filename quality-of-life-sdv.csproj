@@ -5,4 +5,10 @@
     <RootNamespace>quality_of_life_sdv</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Pathoschild.Stardew.ModBuildConfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.0.1" />
+  </ItemGroup>
 </Project>

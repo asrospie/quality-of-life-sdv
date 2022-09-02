@@ -1,0 +1,10 @@
+﻿{
+  "Name": "SDV Quality of Life",
+  "Author": "Alec Rospierski",
+  "Version": "1.0.0",
+  "Description": "Make the game easier",
+  "UniqueID": "alec.quality-of-life-sdv",
+  "EntryDll": "quality-of-life-sdv.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
